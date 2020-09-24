@@ -1,0 +1,10 @@
+{
+  "produit": [
+    {
+      "id": 2,
+      "nom": "produit2",
+      "prix": "50",
+      "qte": "178pièces"
+    }
+  ]
+}
